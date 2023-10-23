@@ -1,0 +1,17 @@
+{
+    "name": "PWA camera",
+    "short_name": "pwa-cam",
+    "description": "pwa com uso de câmera",
+    
+    "start_url": "index.html",
+    "display": "standalone",
+    
+    "background_color": "white",
+    "theme_color": "white",
+     
+    "icons": [{
+      "src": "icon-256.png",
+      "sizes": "256x256",
+      "type": "image/png"
+    }]
+  }
